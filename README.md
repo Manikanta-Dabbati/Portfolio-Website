@@ -28,7 +28,6 @@ The website is a **single-page application** built with **HTML, CSS, and JavaScr
 
 ## 📸 Project Demo
 
-[Image of a professional portfolio website showing a hero section with text and buttons, an about me section with a profile image and skills, a projects section with project cards, and a contact form. The color scheme is a gradient of blue and purple with white and gray text. All sections are well-organized and include animations and hover effects.
-](assets/demo.png)
+![Project Demo Screenshot](assets/demo.png)
 
 This screenshot shows the website's clean design and the smooth user experience provided by its interactive elements and a professional layout.
